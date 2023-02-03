@@ -24,7 +24,6 @@ Steps Involved:
 3. Write the Python script using Boto3 to backup the local directory to Amazon S3.
 4. Test the script in the AWS environment to ensure it is working as expected.
 5. Use Amazon CloudWatch to schedule the execution of the script.
-6. Document the code, including the purpose, features, and instructions for using the script, in a README file.
 
 Benefits:
 * The data is stored securely in Amazon S3, providing peace of mind in case of data loss.
