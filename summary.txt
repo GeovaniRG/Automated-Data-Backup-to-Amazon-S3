@@ -1,0 +1,22 @@
+// GEovani Rodriguez //
+
+Summary:
+In this project, we have developed a backup solution for an AWS environment to ensure that critical data is 
+protected against loss or corruption. The solution includes several key features, such as error handling, 
+compression, encryption, versioning, performance optimization, monitoring, testing, and maintenance. 
+The backup process has been designed to be secure, efficient, and reliable, providing peace of mind and 
+ensuring that data can be recovered quickly in case of a disaster.
+
+Technologies used:
+* Python: The primary programming language used to develop the backup script.
+* AWS CLI: A command line interface used to interact with AWS services, such as S3, to store backups.
+* Boto3: A Python library used to interact with AWS services, such as EC2, to back up instances.
+* Gzip: A data compression utility used to compress backups to reduce their size and improve performance.
+  AES encryption: An encryption algorithm used to encrypt backups to protect sensitive data.
+* AWS CloudWatch: A monitoring service used to monitor the status of the backup process and receive 
+  alerts in case of issues.
+
+By using these technologies, the backup solution is able to meet the needs of an AWS environment 
+and provide a secure, efficient, and reliable way to protect critical data.
+
+//                     //
