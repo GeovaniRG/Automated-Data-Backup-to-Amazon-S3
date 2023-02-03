@@ -1,0 +1,11 @@
+// Geovani Rodriguez //
+
+This concludes the steps for the project. If you have implemented all of the steps, you should now have a functional and robust backup process for your AWS environment that includes features 
+such as error handling, compression, encryption, versioning, performance optimization, monitoring, testing, 
+and maintenance.
+
+Having a solid backup process in place is essential for protecting your data and ensuring that you can 
+recover quickly from any data loss or corruption. Good luck with your project and happy coding!
+
+
+//                  //
