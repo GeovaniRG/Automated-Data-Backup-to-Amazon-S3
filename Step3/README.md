@@ -8,6 +8,8 @@ pip install boto3
 
 2. Write the backup script: You can write a Python script that uses Boto3 to upload a file to Amazon S3. Here's an example script that uploads a file called backup.txt to the S3 bucket created in Step 2:
 
+"makefile"
+
 ```
 import boto3
 
